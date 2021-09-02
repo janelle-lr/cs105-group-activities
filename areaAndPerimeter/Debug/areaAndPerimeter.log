@@ -1,0 +1,3 @@
+﻿  areaAndPerimeter.cpp
+C:\Users\jmoir\Desktop\CS105\areaAndPerimeter\areaAndPerimeter.cpp(113,8): warning C4552: '*': result of expression not used
+  areaAndPerimeter.vcxproj -> C:\Users\jmoir\Desktop\CS105\areaAndPerimeter\Debug\areaAndPerimeter.exe
